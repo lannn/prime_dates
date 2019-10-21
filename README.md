@@ -19,3 +19,10 @@ August 23rd, 2019 is the day that, when seen as the number 20190823, is a prime 
 As you can see, all the numbers here are prime numbers.
 
 Now, list all the dates that meet the above criteria from 20190930 to 20390930 using any programming language available. Please turn in the code you used as well.
+
+
+Run in current directory
+
+```
+ruby prime.rb
+```

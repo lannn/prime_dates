@@ -26,3 +26,10 @@ Run in current directory
 ```
 ruby prime.rb
 ```
+
+Result:
+
+```
+2030-03-17
+2036-03-17
+```
